@@ -1,6 +1,8 @@
-# string [![spm version](http://spmjs.io/badge/string)](http://spmjs.io/package/string)
+# string 
 
 ---
+[![Build Status](https://travis-ci.org/dreamstu/string.svg?branch=master)](https://travis-ci.org/dreamstu/string)
+[![spm version](http://spmjs.io/badge/string)](http://spmjs.io/package/string)
 
 An string lib on quickjs package!
 
