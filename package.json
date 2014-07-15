@@ -1,0 +1,29 @@
+{
+  "name": "string",
+  "version": "1.0.0",
+  "description": "一套方便灵活的高可用的前端组合框架",
+  "keywords": ["string"],
+  "homepage": "http://www.dreamstu.com",
+  "author": "Jian Chen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamstu/string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dreamstu/string/issues"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+      "core":"1.0.0"
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    },
+    "engines": {
+      "seajs": "2.2.1"
+    },
+    "tests": "tests/*.js"
+  }
+}
